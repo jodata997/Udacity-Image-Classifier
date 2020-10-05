@@ -1,5 +1,5 @@
 # Flower Image Classifier Project
-In this project, I created a deep learning network to classify flowers per the labels provided. This project was established by Udacity and performed within Udacity's GPU. The project also utilizes transfer learning to import already trained classifiers from the PyTorch package while modifying the classifier attribute of each package.
+In this project, I created a deep learning network to classify flowers per the labels provided. This project was established by Udacity and performed within Udacity's GPU enabled workspace, so unfortunately the source files for this project are not included. The project also utilizes transfer learning to import already trained classifiers from the PyTorch package while modifying the classifier attribute of each package.
 
 ## Project Breakdown
 The files work through the project in the following manners:
@@ -12,12 +12,7 @@ The files work through the project in the following manners:
 ## Files Included
 These are the files included as part of the project and what each contains:
  - **Image Classifier Project.ipynb**: This is the Jupyter notebook where I conducted all my activities, including a little more than what is included in the predict.py and train.py files.
- - **Image Classifier Project.html**: Same as the file above, except in HTML form.
- - **train.py**: This file accepts inputs from the command line prompt and takes the work from the Jupyter notebook for the following activities:
-  - Creating the Datasets
-  - Creating the Architecture
-  - Training the model
-  - Saving the Model
+ - **train.py**: This file accepts inputs from the command line prompt and takes the work from the Jupyter notebook for the following activities: Creating the Datasets, Creating the Architecture, Training the model, Saving the Model
 
 - **predict.py**: This file accepts inputs from the command line prompt and takes the work from the Jupyter notebook for the following activities
   - Loading the Model
