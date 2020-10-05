@@ -11,8 +11,12 @@ The files work through the project in the following manners:
 
 ## Files Included
 These are the files included as part of the project and what each contains:
- - **Image Classifier Project.ipynb**: This is the Jupyter notebook where I conducted all my activities, including a little more than what is included in the predict.py and train.py files.
- - **train.py**: This file accepts inputs from the command line prompt and takes the work from the Jupyter notebook for the following activities: Creating the Datasets, Creating the Architecture, Training the model, Saving the Model
+- **Image Classifier Project.ipynb**: This is the Jupyter notebook where I conducted all my activities, including a little more than what is included in the predict.py and train.py files.
+- **train.py**: This file accepts inputs from the command line prompt and takes the work from the Jupyter notebook for the following activities 
+   - Creating the Datasets 
+   - Creating the Architecture
+   - Training the model 
+   - Saving the Model
 
 - **predict.py**: This file accepts inputs from the command line prompt and takes the work from the Jupyter notebook for the following activities
   - Loading the Model
